@@ -6,8 +6,6 @@
 **Cybersecurity Engineer | Network Security | Zero Trust | Cloud Security | DevSecOps | Ethical Security Research**
 
 [![Profile](https://img.shields.io/badge/GitHub-scorpionxploit-10B981?style=flat&logo=github)](https://github.com/scorpionxploit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Sharma-38BDF8?style=flat&logo=linkedin)](https://linkedin.com/in/scorpionxploit)
-[![Email](https://img.shields.io/badge/Contact-aditya08sharma%40gmail.com-F59E0B?style=flat&logo=gmail)](mailto:aditya08sharma@gmail.com)
 
 </div>
 
